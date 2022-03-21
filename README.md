@@ -1,0 +1,2 @@
+# appwrite
+apprite docker compose
